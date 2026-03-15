@@ -103,15 +103,14 @@ Outlet Size Comparison
 
 Interactive Filters – For outlet size and item type
 
-These visualizations help identify patterns and trends in grocery sales.
+These visual## 📷 Dashboard Preview
+
+![Blinkit Dashboard](Images/Blinkit-Dashboard.png)
+zations help identify patterns and trends in grocery sales.
 
 📷 Dashboard Preview
 
-(Add screenshots of your dashboard here)
 
-Example:
-
-![Dashboard Preview](Images/dashboard.png)
 
 📊 Dataset
 
